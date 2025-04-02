@@ -38,6 +38,7 @@ console.log("this is >>", typeof undefined) // this is random
 // evrything in javacript is true, except 
 // "", 0, null, undefined, false, NaN - Not a Number
 
+// git commit -am it adds and commits
 
 
 
