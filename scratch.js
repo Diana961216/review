@@ -26,6 +26,19 @@ const theSky = "is blue"
 // It receives the super power of hoisting. 
 var thing = "hoisted"
 
+// Primitive values, are the most generic values. The types of data in their simplest form.
+console.log(typeof myName, "<<<This is me checking the variable myName")
+console.log("this a >>>>", typeof 1)
+console.log("this is a >>", typeof 12.3) // float is anything with a decimal
+console.log("This is a >>", typeof true)
+console.log("this is a >>", typeof false)
+console.log("This is >>>", typeof null) // this is the developer setting this value explicitly, this is a reserved keyword
+console.log("this is >>", typeof undefined) // this is random
+
+// evrything in javacript is true, except 
+// "", 0, null, undefined, false, NaN - Not a Number
+
+
 
 
 
